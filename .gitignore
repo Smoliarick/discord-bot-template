@@ -1,0 +1,5 @@
+# Hide dependencies
+node_modules
+
+# Hide environment settings
+.env
